@@ -46,15 +46,15 @@ Mind the fiffering return values! Just use the forst 64 chars of the return valu
  time node runKeccak256.js ''
 c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470
 
-real	0m0.123s
-user	0m0.099s
-sys		0m0.022s
+real 0m0.123s
+user 0m0.099s
+sys  0m0.022s
 ```
 
 ```
 c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470  ""
 
-real	0m0.004s
-user	0m0.001s
-sys		0m0.001s
+real 0m0.004s
+user 0m0.001s
+sys  0m0.001s
 ```
