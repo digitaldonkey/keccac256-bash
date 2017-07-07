@@ -1,0 +1,27 @@
+{
+  "name": "keccac256-bash",
+  "version": "1.0.0",
+  "description": "Command line tool for Ethereums Keccac-256 hash algorithm (web3.sha3()).",
+  "main": "runKeccak256.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitaldonkey/keccac256-bash.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "keccak256"
+  ],
+  "author": "Thorsten Krug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitaldonkey/keccac256-bash/issues"
+  },
+  "homepage": "https://github.com/digitaldonkey/keccac256-bash#readme",
+  "dependencies": {
+    "keccak": "github:cryptocoinjs/keccak",
+    "shelljs": "^0.7.8"
+  }
+}
